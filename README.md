@@ -1,2 +1,2 @@
-# education-inequality-ml-project
-Predictive analytics project leveraging Python, Pandas and Scikit-learn to identify at-risk South African schools. Includes data wrangling, exploratory data analysis, feature engineering, machine learning and stakeholder-focused insights.
+# Diabetes Patient Readmission Analysis and Predictive Insights
+Machine learning project predicting at-risk South African schools using socio-economic and educational data. Built with Python, Pandas, Scikit-learn, Logistic Regression and Random Forest models, achieving 89% accuracy.
